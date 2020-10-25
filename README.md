@@ -1,9 +1,10 @@
 # Coursify
-A Front end for coaching center
-# How to run
-1.download code
-2.open in visual studio
-3. npm install
-4.npm start
-# demo 
+This Web Application to provide educational websites a starting template to work on.
 
+# Demo Link
+https://coursify-249ca.web.app/
+
+# How To Run The Project
+1. npm install
+2. npm start 
+3. The web application would run on localhost:3000
